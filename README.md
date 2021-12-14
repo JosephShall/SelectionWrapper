@@ -1,4 +1,4 @@
-Download this extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=EricMartineau.sw111).
+A forked project to get worked with visual studio 2022.
 
 # Selection Wrapper
 Wraps selected text depending on the key pressed, like in Visual Studio Code.<br>
